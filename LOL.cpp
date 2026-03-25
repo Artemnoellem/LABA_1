@@ -25,6 +25,8 @@ int main() {
     double dio = sqrt(a * a + b * b);
 
     //Вывод
+    //123
+
 
     cout << "Результат" << endl;
     cout << "Периметр: " << per << endl;
